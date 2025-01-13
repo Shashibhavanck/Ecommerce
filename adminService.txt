@@ -1,3 +1,5 @@
 Admin Here
 he can have access to all
 admin can manage database
+
+now admin can see user
