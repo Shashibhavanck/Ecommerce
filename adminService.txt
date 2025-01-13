@@ -1,1 +1,3 @@
 Admin Here
+he can have access to all
+admin can manage database
